@@ -19,7 +19,7 @@ def remove_pdf_metadata(pdf_file):
     writer.write(output)
     return output.getvalue()
 
-st.title("Metadata Stripper")
+st.title("Metadata Remover")
 
 uploaded_file = st.file_uploader("Upload a file", type=["jpg", "jpeg", "png", "pdf"])
 
