@@ -2,7 +2,7 @@
 
 This repository contains two cybersecurity tools:
 
-1. **Metadata Image Remover** - A Python tool that removes metadata from images to enhance privacy.
+**Metadata Image Remover** - A Python tool that removes metadata from images to enhance privacy.
 
 ---
 
